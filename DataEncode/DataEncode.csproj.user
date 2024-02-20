@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Ahmad\Desktop\code c#\DataEncode\Properties\PublishProfiles\FolderProfile2.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Classe\RoundButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="FormClientData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDataBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormImportData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormStatistics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoundedButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
